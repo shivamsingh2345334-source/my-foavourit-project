@@ -1,0 +1,14 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+websockets>=12.0
+python-dotenv>=1.0
+groq>=0.11
+upstash-redis>=1.1
+supabase>=2.5
+langgraph>=0.2
+edge-tts>=6.1.9
+silero-vad>=5.1
+numpy>=1.26
+sounddevice>=0.4.6
+miniaudio>=1.59
+fastembed>=0.3
